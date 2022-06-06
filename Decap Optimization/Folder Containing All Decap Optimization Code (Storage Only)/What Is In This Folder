@@ -1,0 +1,6 @@
+This folder stores ALL FILES made for decap optimization. The code here is not properly organized/commented/dependencies listed.
+
+I am hoping to organize the files later, and put the GA codes in their own folders based on the associated paper/work. 
+But the code needs to be organized with explaniations for how to use it, explanation for file paths, removing deprecated stuff.
+
+You can still download the files here and run the code, but might require additional work to figure out how everything works.
