@@ -1,0 +1,4 @@
+This folder contains some sample board s-parameters that could be used for testing out the code
+
+.sNp are N port s parameters, where for all these files, we've treated port 0 as the IC port
+.npz files are numpy files containing some of the board information, such as via locations, boundaries, stackup, among other things.
